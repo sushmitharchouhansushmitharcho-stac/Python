@@ -22,7 +22,7 @@ for i in range(n):
             #enter the element 5: 50
             #Array elements are: 
             #10 20 30 40 50 
-            #    arr.append(element)
+    arr.append(element)
 
 print("Array elements are: ")
 for element in arr:
